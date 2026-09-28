@@ -62,3 +62,4 @@ Para producción se debe usar un servidor WSGI/ASGI apropiado y configurar el do
 - EC2 con Linux, Python, entorno virtual y proyecto ejecutándose.
 - Repositorio GitHub y `git log`.
 - Capturas de la interfaz con los botones Agregar, Modificar, Eliminar y Buscar.
+# ev2_end
